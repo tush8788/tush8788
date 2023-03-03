@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tushar Rajendra Jagtap
 - 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning NodeJS and React
 - 📫 How to reach me tusharj8788@gmail.com
 - 👨‍💻 Done Master Of Computer Application
 <!---
