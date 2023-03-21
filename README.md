@@ -22,6 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Q6r7Jj8VovpquBZfmE/giphy.gif" width="600" height="300"/>
 </div>
+
 - 👋 Hi, I’m Tushar Rajendra Jagtap
 - 👀 I’m interested in Backend Development 
 - 📫 How to reach me tusharj8788@gmail.com
