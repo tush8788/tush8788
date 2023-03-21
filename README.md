@@ -23,8 +23,13 @@
   <img src="https://media.giphy.com/media/Q6r7Jj8VovpquBZfmE/giphy.gif" width="600" height="300"/>
 </div>
 
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 - 👋 Hi, I’m Tushar Rajendra Jagtap
 - 👀 I’m interested in Backend Development 
+- :telescope: I’m contributing to frontend and backend for building web applications.
 - 📫 How to reach me tusharj8788@gmail.com
 - 👨‍💻 Done Master Of Computer Application
 <!---
