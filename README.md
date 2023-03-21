@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://giphy.com/gifs/hackinthewoods-working-work-from-home-in-progress-Q6r7Jj8VovpquBZfmE" width="600" height="300"/>
+  <img src="https://giphy.com/embed/Q6r7Jj8VovpquBZfmE" width="600" height="300"/>
 </div>
 <iframe src="https://giphy.com/embed/Q6r7Jj8VovpquBZfmE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackinthewoods-working-work-from-home-in-progress-Q6r7Jj8VovpquBZfmE">via GIPHY</a></p>
 - 👋 Hi, I’m Tushar Rajendra Jagtap
