@@ -28,7 +28,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 👋 Hi, I’m Tushar Rajendra Jagtap
-- 👀 I’m interested in Backend Development 
+- 👀 I’m interested in MERN stack Development 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 - 📫 How to reach me tusharj8788@gmail.com
 - 👨‍💻 Done Master Of Computer Application
