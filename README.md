@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tushar-jagtap-768b5b161/" target="_blank">
+  <a href="www.linkedin.com/in/tushar-jagtap-a8bba7317" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/t_u_s_h_a_r__j_a_g_t_a_p/" target="_blank">
